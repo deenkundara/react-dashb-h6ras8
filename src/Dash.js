@@ -21,7 +21,7 @@ class Dash extends React.Component {
       <Row>
         <Col xs={6}>
           <Box title="My first box" type="primary" closable collapsable footer={<Button type="danger" text="Danger Button" />}>
-            Hello World
+            Hello World-
           </Box>
         </Col>
         <Col xs={6}>
